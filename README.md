@@ -14,11 +14,6 @@ Welcome to the **Library Management System**, a simple Java program that allows 
 
 - **Exit**: You can exit the program when you are done managing the library.
 
-## Note
-
-- Make sure you have Java installed on your system to run this program.
-
-- The program uses the Java `LocalDate` class to manage dates and times, and it's recommended to run the program on a system with accurate date settings.
 
 ## Contributing
 
